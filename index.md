@@ -1,37 +1,78 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en" xmlns:a="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <title>Arsen's Test Website</title>
+</head>
+<body>
+    <h1 id="top">Arsen's Test Website</h1>
+    <br>
+    <h2 align="center"><Heading></Heading></h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam dolorem nisi quis ullam velit? Iusto.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A assumenda, debitis doloremque eius eligendi exercitationem id inventore iste laborum molestiae nam numquam perferendis, quaerat repudiandae, rerum sint voluptate. Ab blanditiis dolore ea facilis fugit in itaque iusto minus molestias necessitatibus nesciunt nihil non odit provident tempora vel veritatis, vero. A aliquid commodi consequatur deleniti dolorum, eaque enim eveniet ex exercitationem fugiat id itaque iusto nesciunt quae, quasi rem repellendus reprehenderit rerum saepe sapiente sit sunt tempora tempore velit vero voluptatem voluptatibus? Animi commodi dolores fugiat ipsum recusandae? Ad animi beatae blanditiis cum cumque dicta dignissimos dolorem earum expedita fugit iusto, libero mollitia omnis quis reprehenderit repudiandae saepe, soluta? A, aut beatae blanditiis delectus dicta distinctio dolore eligendi excepturi explicabo fugit, harum incidunt iure natus necessitatibus nisi nobis nulla officia officiis omnis quas recusandae repellendus sit soluta, ut voluptatibus. <i>Culpa dolore et eum</i>, expedita fugiat labore minus nobis pariatur sint <b>bbbbb</b> <strong>STRONG </strong>veritatis!</p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
 
-You can use the [editor on GitHub](https://github.com/arsenbai/test_website_using_htm5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <!-- modify this form HTML and place wherever you want your form -->
+<form
+  action="https://formspree.io/f/mrgjkqww"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+<!--    <a href="mailto:arsen.baiseupov@gmail.com">Email me here.</a>-->
+    <br>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+    <table>
+        <tr>
+            <th>th1</th>
+            <th>th2</th>
+            <th>th3</th>
+        </tr>
+<tr>
+        <td>td1</td>
+        <td>td2</td>
+        <td>td3</td>
+</tr>
+    </table>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+<!--    <p><a href="#top">top</a></p>-->
+<!--    <blockquote>blockquote</blockquote>-->
+<!--        <blockquote>blockquote2</blockquote>-->
+    <img src="./resources/k193ae0001914.jpg" width="650" alt="img from resources">
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arsenbai/test_website_using_htm5/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
